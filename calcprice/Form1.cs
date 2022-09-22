@@ -27,13 +27,13 @@ namespace calcprice
         private void button7_Click(object sender, EventArgs e)
         {
             int classA = Int16.Parse(textBox1.Text) * 15;
-            textBox4.Text = classA.ToString() + " €";
-            int classB = Int16.Parse(textBox2.Text) * 30;
-            textBox5.Text = classB.ToString() + " €";
-            int classC = Int16.Parse(textBox3.Text) * 45;
-            textBox6.Text = classC.ToString() + " €";
+            textBox4.Text = classA.ToString() + " â‚¬";
+            int classB = Int16.Parse(textBox2.Text) * 12;
+            textBox5.Text = classB.ToString() + " â‚¬";
+            int classC = Int16.Parse(textBox3.Text) * 9;
+            textBox6.Text = classC.ToString() + " â‚¬";
             int total = classA + classB + classC;
-            textBox7.Text = total.ToString() + " €";
+            textBox7.Text = total.ToString() + " â‚¬";
         }
 
         private void label1_Click(object sender, EventArgs e)
