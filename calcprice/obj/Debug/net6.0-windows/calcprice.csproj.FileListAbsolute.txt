@@ -1,0 +1,17 @@
+C:\Users\roman\source\repos\calcprice\bin\Debug\net6.0-windows\calcprice.exe
+C:\Users\roman\source\repos\calcprice\bin\Debug\net6.0-windows\calcprice.deps.json
+C:\Users\roman\source\repos\calcprice\bin\Debug\net6.0-windows\calcprice.runtimeconfig.json
+C:\Users\roman\source\repos\calcprice\bin\Debug\net6.0-windows\calcprice.dll
+C:\Users\roman\source\repos\calcprice\bin\Debug\net6.0-windows\calcprice.pdb
+C:\Users\roman\source\repos\calcprice\obj\Debug\net6.0-windows\calcprice.csproj.AssemblyReference.cache
+C:\Users\roman\source\repos\calcprice\obj\Debug\net6.0-windows\calcprice.Form1.resources
+C:\Users\roman\source\repos\calcprice\obj\Debug\net6.0-windows\calcprice.csproj.GenerateResource.cache
+C:\Users\roman\source\repos\calcprice\obj\Debug\net6.0-windows\calcprice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roman\source\repos\calcprice\obj\Debug\net6.0-windows\calcprice.AssemblyInfoInputs.cache
+C:\Users\roman\source\repos\calcprice\obj\Debug\net6.0-windows\calcprice.AssemblyInfo.cs
+C:\Users\roman\source\repos\calcprice\obj\Debug\net6.0-windows\calcprice.csproj.CoreCompileInputs.cache
+C:\Users\roman\source\repos\calcprice\obj\Debug\net6.0-windows\calcprice.dll
+C:\Users\roman\source\repos\calcprice\obj\Debug\net6.0-windows\refint\calcprice.dll
+C:\Users\roman\source\repos\calcprice\obj\Debug\net6.0-windows\calcprice.pdb
+C:\Users\roman\source\repos\calcprice\obj\Debug\net6.0-windows\calcprice.genruntimeconfig.cache
+C:\Users\roman\source\repos\calcprice\obj\Debug\net6.0-windows\ref\calcprice.dll
