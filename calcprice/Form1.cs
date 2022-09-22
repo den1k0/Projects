@@ -17,6 +17,10 @@ namespace calcprice
             textBox1.Clear();
             textBox2.Clear();
             textBox3.Clear();
+            textBox4.Clear();
+            textBox5.Clear();
+            textBox6.Clear();
+            textBox7.Clear();
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
