@@ -15,7 +15,7 @@ namespace bmi
             textBox3.Text = "BMI: " + result.ToString("N2");
             if (result < 18.5)
             {
-                textBox3.AppendText("\r\n" + "Status: underweight"); ;
+                textBox3.AppendText("\r\n" + "Status: underweight");
             }
             if (result > 25)
             {
