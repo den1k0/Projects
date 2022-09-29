@@ -1,0 +1,17 @@
+C:\Users\roman\source\repos\bmi\bin\Debug\net6.0-windows\bmi.exe
+C:\Users\roman\source\repos\bmi\bin\Debug\net6.0-windows\bmi.deps.json
+C:\Users\roman\source\repos\bmi\bin\Debug\net6.0-windows\bmi.runtimeconfig.json
+C:\Users\roman\source\repos\bmi\bin\Debug\net6.0-windows\bmi.dll
+C:\Users\roman\source\repos\bmi\bin\Debug\net6.0-windows\bmi.pdb
+C:\Users\roman\source\repos\bmi\obj\Debug\net6.0-windows\bmi.csproj.AssemblyReference.cache
+C:\Users\roman\source\repos\bmi\obj\Debug\net6.0-windows\bmi.Form1.resources
+C:\Users\roman\source\repos\bmi\obj\Debug\net6.0-windows\bmi.csproj.GenerateResource.cache
+C:\Users\roman\source\repos\bmi\obj\Debug\net6.0-windows\bmi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roman\source\repos\bmi\obj\Debug\net6.0-windows\bmi.AssemblyInfoInputs.cache
+C:\Users\roman\source\repos\bmi\obj\Debug\net6.0-windows\bmi.AssemblyInfo.cs
+C:\Users\roman\source\repos\bmi\obj\Debug\net6.0-windows\bmi.csproj.CoreCompileInputs.cache
+C:\Users\roman\source\repos\bmi\obj\Debug\net6.0-windows\bmi.dll
+C:\Users\roman\source\repos\bmi\obj\Debug\net6.0-windows\refint\bmi.dll
+C:\Users\roman\source\repos\bmi\obj\Debug\net6.0-windows\bmi.pdb
+C:\Users\roman\source\repos\bmi\obj\Debug\net6.0-windows\bmi.genruntimeconfig.cache
+C:\Users\roman\source\repos\bmi\obj\Debug\net6.0-windows\ref\bmi.dll
