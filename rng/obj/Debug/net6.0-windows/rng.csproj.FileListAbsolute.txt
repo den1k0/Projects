@@ -1,0 +1,17 @@
+C:\Users\roman\source\repos\rng\bin\Debug\net6.0-windows\rng.exe
+C:\Users\roman\source\repos\rng\bin\Debug\net6.0-windows\rng.deps.json
+C:\Users\roman\source\repos\rng\bin\Debug\net6.0-windows\rng.runtimeconfig.json
+C:\Users\roman\source\repos\rng\bin\Debug\net6.0-windows\rng.dll
+C:\Users\roman\source\repos\rng\bin\Debug\net6.0-windows\rng.pdb
+C:\Users\roman\source\repos\rng\obj\Debug\net6.0-windows\rng.csproj.AssemblyReference.cache
+C:\Users\roman\source\repos\rng\obj\Debug\net6.0-windows\rng.csproj.GenerateResource.cache
+C:\Users\roman\source\repos\rng\obj\Debug\net6.0-windows\rng.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roman\source\repos\rng\obj\Debug\net6.0-windows\rng.AssemblyInfoInputs.cache
+C:\Users\roman\source\repos\rng\obj\Debug\net6.0-windows\rng.AssemblyInfo.cs
+C:\Users\roman\source\repos\rng\obj\Debug\net6.0-windows\rng.csproj.CoreCompileInputs.cache
+C:\Users\roman\source\repos\rng\obj\Debug\net6.0-windows\rng.dll
+C:\Users\roman\source\repos\rng\obj\Debug\net6.0-windows\refint\rng.dll
+C:\Users\roman\source\repos\rng\obj\Debug\net6.0-windows\rng.pdb
+C:\Users\roman\source\repos\rng\obj\Debug\net6.0-windows\rng.genruntimeconfig.cache
+C:\Users\roman\source\repos\rng\obj\Debug\net6.0-windows\ref\rng.dll
+C:\Users\roman\source\repos\rng\obj\Debug\net6.0-windows\rng.Form1.resources
