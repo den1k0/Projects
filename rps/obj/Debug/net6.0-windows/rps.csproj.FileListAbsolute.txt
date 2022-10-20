@@ -1,0 +1,17 @@
+C:\Users\roman\source\repos\rps\bin\Debug\net6.0-windows\rps.exe
+C:\Users\roman\source\repos\rps\bin\Debug\net6.0-windows\rps.deps.json
+C:\Users\roman\source\repos\rps\bin\Debug\net6.0-windows\rps.runtimeconfig.json
+C:\Users\roman\source\repos\rps\bin\Debug\net6.0-windows\rps.dll
+C:\Users\roman\source\repos\rps\bin\Debug\net6.0-windows\rps.pdb
+C:\Users\roman\source\repos\rps\obj\Debug\net6.0-windows\rps.csproj.AssemblyReference.cache
+C:\Users\roman\source\repos\rps\obj\Debug\net6.0-windows\rps.Form1.resources
+C:\Users\roman\source\repos\rps\obj\Debug\net6.0-windows\rps.csproj.GenerateResource.cache
+C:\Users\roman\source\repos\rps\obj\Debug\net6.0-windows\rps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roman\source\repos\rps\obj\Debug\net6.0-windows\rps.AssemblyInfoInputs.cache
+C:\Users\roman\source\repos\rps\obj\Debug\net6.0-windows\rps.AssemblyInfo.cs
+C:\Users\roman\source\repos\rps\obj\Debug\net6.0-windows\rps.csproj.CoreCompileInputs.cache
+C:\Users\roman\source\repos\rps\obj\Debug\net6.0-windows\rps.dll
+C:\Users\roman\source\repos\rps\obj\Debug\net6.0-windows\refint\rps.dll
+C:\Users\roman\source\repos\rps\obj\Debug\net6.0-windows\rps.pdb
+C:\Users\roman\source\repos\rps\obj\Debug\net6.0-windows\rps.genruntimeconfig.cache
+C:\Users\roman\source\repos\rps\obj\Debug\net6.0-windows\ref\rps.dll
