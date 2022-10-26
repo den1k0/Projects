@@ -1,0 +1,17 @@
+C:\Users\roman\source\repos\driverslicenseexam\bin\Debug\net6.0-windows\driverslicenseexam.exe
+C:\Users\roman\source\repos\driverslicenseexam\bin\Debug\net6.0-windows\driverslicenseexam.deps.json
+C:\Users\roman\source\repos\driverslicenseexam\bin\Debug\net6.0-windows\driverslicenseexam.runtimeconfig.json
+C:\Users\roman\source\repos\driverslicenseexam\bin\Debug\net6.0-windows\driverslicenseexam.dll
+C:\Users\roman\source\repos\driverslicenseexam\bin\Debug\net6.0-windows\driverslicenseexam.pdb
+C:\Users\roman\source\repos\driverslicenseexam\obj\Debug\net6.0-windows\driverslicenseexam.csproj.AssemblyReference.cache
+C:\Users\roman\source\repos\driverslicenseexam\obj\Debug\net6.0-windows\driverslicenseexam.Form1.resources
+C:\Users\roman\source\repos\driverslicenseexam\obj\Debug\net6.0-windows\driverslicenseexam.csproj.GenerateResource.cache
+C:\Users\roman\source\repos\driverslicenseexam\obj\Debug\net6.0-windows\driverslicenseexam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roman\source\repos\driverslicenseexam\obj\Debug\net6.0-windows\driverslicenseexam.AssemblyInfoInputs.cache
+C:\Users\roman\source\repos\driverslicenseexam\obj\Debug\net6.0-windows\driverslicenseexam.AssemblyInfo.cs
+C:\Users\roman\source\repos\driverslicenseexam\obj\Debug\net6.0-windows\driverslicenseexam.csproj.CoreCompileInputs.cache
+C:\Users\roman\source\repos\driverslicenseexam\obj\Debug\net6.0-windows\driverslicenseexam.dll
+C:\Users\roman\source\repos\driverslicenseexam\obj\Debug\net6.0-windows\refint\driverslicenseexam.dll
+C:\Users\roman\source\repos\driverslicenseexam\obj\Debug\net6.0-windows\driverslicenseexam.pdb
+C:\Users\roman\source\repos\driverslicenseexam\obj\Debug\net6.0-windows\driverslicenseexam.genruntimeconfig.cache
+C:\Users\roman\source\repos\driverslicenseexam\obj\Debug\net6.0-windows\ref\driverslicenseexam.dll
