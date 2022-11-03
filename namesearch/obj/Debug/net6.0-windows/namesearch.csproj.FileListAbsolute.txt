@@ -1,0 +1,17 @@
+C:\Users\roman\source\repos\namesearch\bin\Debug\net6.0-windows\namesearch.exe
+C:\Users\roman\source\repos\namesearch\bin\Debug\net6.0-windows\namesearch.deps.json
+C:\Users\roman\source\repos\namesearch\bin\Debug\net6.0-windows\namesearch.runtimeconfig.json
+C:\Users\roman\source\repos\namesearch\bin\Debug\net6.0-windows\namesearch.dll
+C:\Users\roman\source\repos\namesearch\bin\Debug\net6.0-windows\namesearch.pdb
+C:\Users\roman\source\repos\namesearch\obj\Debug\net6.0-windows\namesearch.csproj.AssemblyReference.cache
+C:\Users\roman\source\repos\namesearch\obj\Debug\net6.0-windows\namesearch.Form1.resources
+C:\Users\roman\source\repos\namesearch\obj\Debug\net6.0-windows\namesearch.csproj.GenerateResource.cache
+C:\Users\roman\source\repos\namesearch\obj\Debug\net6.0-windows\namesearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roman\source\repos\namesearch\obj\Debug\net6.0-windows\namesearch.AssemblyInfoInputs.cache
+C:\Users\roman\source\repos\namesearch\obj\Debug\net6.0-windows\namesearch.AssemblyInfo.cs
+C:\Users\roman\source\repos\namesearch\obj\Debug\net6.0-windows\namesearch.csproj.CoreCompileInputs.cache
+C:\Users\roman\source\repos\namesearch\obj\Debug\net6.0-windows\namesearch.dll
+C:\Users\roman\source\repos\namesearch\obj\Debug\net6.0-windows\refint\namesearch.dll
+C:\Users\roman\source\repos\namesearch\obj\Debug\net6.0-windows\namesearch.pdb
+C:\Users\roman\source\repos\namesearch\obj\Debug\net6.0-windows\namesearch.genruntimeconfig.cache
+C:\Users\roman\source\repos\namesearch\obj\Debug\net6.0-windows\ref\namesearch.dll
