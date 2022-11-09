@@ -1,0 +1,17 @@
+C:\Users\roman\source\repos\mfc\bin\Debug\net6.0-windows\mfc.exe
+C:\Users\roman\source\repos\mfc\bin\Debug\net6.0-windows\mfc.deps.json
+C:\Users\roman\source\repos\mfc\bin\Debug\net6.0-windows\mfc.runtimeconfig.json
+C:\Users\roman\source\repos\mfc\bin\Debug\net6.0-windows\mfc.dll
+C:\Users\roman\source\repos\mfc\bin\Debug\net6.0-windows\mfc.pdb
+C:\Users\roman\source\repos\mfc\obj\Debug\net6.0-windows\mfc.csproj.AssemblyReference.cache
+C:\Users\roman\source\repos\mfc\obj\Debug\net6.0-windows\mfc.Form1.resources
+C:\Users\roman\source\repos\mfc\obj\Debug\net6.0-windows\mfc.csproj.GenerateResource.cache
+C:\Users\roman\source\repos\mfc\obj\Debug\net6.0-windows\mfc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roman\source\repos\mfc\obj\Debug\net6.0-windows\mfc.AssemblyInfoInputs.cache
+C:\Users\roman\source\repos\mfc\obj\Debug\net6.0-windows\mfc.AssemblyInfo.cs
+C:\Users\roman\source\repos\mfc\obj\Debug\net6.0-windows\mfc.csproj.CoreCompileInputs.cache
+C:\Users\roman\source\repos\mfc\obj\Debug\net6.0-windows\mfc.dll
+C:\Users\roman\source\repos\mfc\obj\Debug\net6.0-windows\refint\mfc.dll
+C:\Users\roman\source\repos\mfc\obj\Debug\net6.0-windows\mfc.pdb
+C:\Users\roman\source\repos\mfc\obj\Debug\net6.0-windows\mfc.genruntimeconfig.cache
+C:\Users\roman\source\repos\mfc\obj\Debug\net6.0-windows\ref\mfc.dll
