@@ -1,0 +1,17 @@
+C:\Users\roman\source\repos\classproject\bin\Debug\net6.0-windows\classproject.exe
+C:\Users\roman\source\repos\classproject\bin\Debug\net6.0-windows\classproject.deps.json
+C:\Users\roman\source\repos\classproject\bin\Debug\net6.0-windows\classproject.runtimeconfig.json
+C:\Users\roman\source\repos\classproject\bin\Debug\net6.0-windows\classproject.dll
+C:\Users\roman\source\repos\classproject\bin\Debug\net6.0-windows\classproject.pdb
+C:\Users\roman\source\repos\classproject\obj\Debug\net6.0-windows\classproject.csproj.AssemblyReference.cache
+C:\Users\roman\source\repos\classproject\obj\Debug\net6.0-windows\classproject.csproj.GenerateResource.cache
+C:\Users\roman\source\repos\classproject\obj\Debug\net6.0-windows\classproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roman\source\repos\classproject\obj\Debug\net6.0-windows\classproject.AssemblyInfoInputs.cache
+C:\Users\roman\source\repos\classproject\obj\Debug\net6.0-windows\classproject.AssemblyInfo.cs
+C:\Users\roman\source\repos\classproject\obj\Debug\net6.0-windows\classproject.csproj.CoreCompileInputs.cache
+C:\Users\roman\source\repos\classproject\obj\Debug\net6.0-windows\classproject.dll
+C:\Users\roman\source\repos\classproject\obj\Debug\net6.0-windows\refint\classproject.dll
+C:\Users\roman\source\repos\classproject\obj\Debug\net6.0-windows\classproject.pdb
+C:\Users\roman\source\repos\classproject\obj\Debug\net6.0-windows\classproject.genruntimeconfig.cache
+C:\Users\roman\source\repos\classproject\obj\Debug\net6.0-windows\ref\classproject.dll
+C:\Users\roman\source\repos\classproject\obj\Debug\net6.0-windows\classproject.Form1.resources
