@@ -1,0 +1,17 @@
+C:\Users\roman\source\repos\empclass\bin\Debug\net6.0-windows\empclass.exe
+C:\Users\roman\source\repos\empclass\bin\Debug\net6.0-windows\empclass.deps.json
+C:\Users\roman\source\repos\empclass\bin\Debug\net6.0-windows\empclass.runtimeconfig.json
+C:\Users\roman\source\repos\empclass\bin\Debug\net6.0-windows\empclass.dll
+C:\Users\roman\source\repos\empclass\bin\Debug\net6.0-windows\empclass.pdb
+C:\Users\roman\source\repos\empclass\obj\Debug\net6.0-windows\empclass.csproj.AssemblyReference.cache
+C:\Users\roman\source\repos\empclass\obj\Debug\net6.0-windows\empclass.Form1.resources
+C:\Users\roman\source\repos\empclass\obj\Debug\net6.0-windows\empclass.csproj.GenerateResource.cache
+C:\Users\roman\source\repos\empclass\obj\Debug\net6.0-windows\empclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roman\source\repos\empclass\obj\Debug\net6.0-windows\empclass.AssemblyInfoInputs.cache
+C:\Users\roman\source\repos\empclass\obj\Debug\net6.0-windows\empclass.AssemblyInfo.cs
+C:\Users\roman\source\repos\empclass\obj\Debug\net6.0-windows\empclass.csproj.CoreCompileInputs.cache
+C:\Users\roman\source\repos\empclass\obj\Debug\net6.0-windows\empclass.dll
+C:\Users\roman\source\repos\empclass\obj\Debug\net6.0-windows\refint\empclass.dll
+C:\Users\roman\source\repos\empclass\obj\Debug\net6.0-windows\empclass.pdb
+C:\Users\roman\source\repos\empclass\obj\Debug\net6.0-windows\empclass.genruntimeconfig.cache
+C:\Users\roman\source\repos\empclass\obj\Debug\net6.0-windows\ref\empclass.dll
