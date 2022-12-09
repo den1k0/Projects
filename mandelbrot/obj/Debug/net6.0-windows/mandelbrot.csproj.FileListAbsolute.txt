@@ -1,0 +1,17 @@
+C:\Users\roman\source\repos\mandelbrot\bin\Debug\net6.0-windows\mandelbrot.exe
+C:\Users\roman\source\repos\mandelbrot\bin\Debug\net6.0-windows\mandelbrot.deps.json
+C:\Users\roman\source\repos\mandelbrot\bin\Debug\net6.0-windows\mandelbrot.runtimeconfig.json
+C:\Users\roman\source\repos\mandelbrot\bin\Debug\net6.0-windows\mandelbrot.dll
+C:\Users\roman\source\repos\mandelbrot\bin\Debug\net6.0-windows\mandelbrot.pdb
+C:\Users\roman\source\repos\mandelbrot\obj\Debug\net6.0-windows\mandelbrot.csproj.AssemblyReference.cache
+C:\Users\roman\source\repos\mandelbrot\obj\Debug\net6.0-windows\mandelbrot.Form1.resources
+C:\Users\roman\source\repos\mandelbrot\obj\Debug\net6.0-windows\mandelbrot.csproj.GenerateResource.cache
+C:\Users\roman\source\repos\mandelbrot\obj\Debug\net6.0-windows\mandelbrot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roman\source\repos\mandelbrot\obj\Debug\net6.0-windows\mandelbrot.AssemblyInfoInputs.cache
+C:\Users\roman\source\repos\mandelbrot\obj\Debug\net6.0-windows\mandelbrot.AssemblyInfo.cs
+C:\Users\roman\source\repos\mandelbrot\obj\Debug\net6.0-windows\mandelbrot.csproj.CoreCompileInputs.cache
+C:\Users\roman\source\repos\mandelbrot\obj\Debug\net6.0-windows\mandelbrot.dll
+C:\Users\roman\source\repos\mandelbrot\obj\Debug\net6.0-windows\refint\mandelbrot.dll
+C:\Users\roman\source\repos\mandelbrot\obj\Debug\net6.0-windows\mandelbrot.pdb
+C:\Users\roman\source\repos\mandelbrot\obj\Debug\net6.0-windows\mandelbrot.genruntimeconfig.cache
+C:\Users\roman\source\repos\mandelbrot\obj\Debug\net6.0-windows\ref\mandelbrot.dll
